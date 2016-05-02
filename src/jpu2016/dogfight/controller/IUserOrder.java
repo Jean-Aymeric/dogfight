@@ -5,4 +5,5 @@ public interface IUserOrder {
 	int getPlayer();
 
 	Order getOrder();
+
 }
